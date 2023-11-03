@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Perry-Bright
-- 👀 I’m interested in programming
+- 👀 I’m interested in programming, hacking, building stuffs, finding out how systems work, trying and tinkering around with new things and much more
 - 🌱 I’m currently on my journey to becoming a full stack software engineer
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me: gmail: perry16bright2004@gmail.com, or whatsapp: +237681034842
+- 💞️ I’m looking to collaborate on projects, sharing experience and drinking coffee
+- 📫 Don't be shy, contact me through: gmail: perrybright@proton.me or linkedin at https://www.linkedin.com/in/alemmbom-perry-bright-371a36243/
 
 <!---
 Perry-Bright/Perry-Bright is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
